@@ -1,0 +1,1 @@
+Deploying spring application in k8s, docker, preparing distributions, etc
